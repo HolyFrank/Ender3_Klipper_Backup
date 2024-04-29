@@ -5,7 +5,7 @@ Configuration:
 - BTT Skr mini 1.2
 - Linear rail XYZ
 - Dual Z 2-steppers motors
-- Bqui H2 V2s
+- Biqu H2 V2s
 
 Ikea enclosure
 
