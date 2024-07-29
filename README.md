@@ -8,5 +8,3 @@ Configuration:
 - Biqu H2 V2s
 
 Ikea enclosure
-
-This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
